@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Add-Animal/static/css/main.d047632e.css",
+    "main.js": "/Add-Animal/static/js/main.37207f3e.js",
+    "static/media/dog.svg": "/Add-Animal/static/media/dog.70df56096fa41df9d7cc64fb46b40933.svg",
+    "static/media/cat.svg": "/Add-Animal/static/media/cat.a5ff6c61483cb1b6f176ebe2f042b359.svg",
+    "static/media/gator.svg": "/Add-Animal/static/media/gator.9035accbd534fc488eb1fb531c9e767b.svg",
+    "static/media/cow.svg": "/Add-Animal/static/media/cow.caef99ab8c0fd06c78cc0fac328dda37.svg",
+    "static/media/bird.svg": "/Add-Animal/static/media/bird.224782d1579a91d795d0027d8f070b4b.svg",
+    "static/media/horse.svg": "/Add-Animal/static/media/horse.305d0410efa0b614518efa805890c6bc.svg",
+    "static/media/heart.svg": "/Add-Animal/static/media/heart.286db198ed3962d7ec4724276f411c63.svg",
+    "index.html": "/Add-Animal/index.html",
+    "main.d047632e.css.map": "/Add-Animal/static/css/main.d047632e.css.map",
+    "main.37207f3e.js.map": "/Add-Animal/static/js/main.37207f3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d047632e.css",
+    "static/js/main.37207f3e.js"
+  ]
+}
